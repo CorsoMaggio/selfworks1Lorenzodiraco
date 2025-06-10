@@ -1,9 +1,8 @@
 <?php
-
+$budget = "1000";
 $numero = 333.33;
 $arrotondo = round($numero = 333);
 
-echo $arrotondo;
 const BUDGET = 1000;
 
 
